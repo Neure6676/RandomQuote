@@ -27,3 +27,16 @@ Display the retrieved quote and its author
 
 
 
+
+getKey api call
+
+<img width="843" alt="Screenshot 2024-03-29 at 6 01 10 PM" src="https://github.com/Neure6676/RandomQuote/assets/72249816/06a86348-6869-4daf-85f6-762cb7387906">
+
+integration api call
+
+<img width="849" alt="Screenshot 2024-03-29 at 6 02 04 PM" src="https://github.com/Neure6676/RandomQuote/assets/72249816/cc322ccc-4430-4e15-8571-43a388cb1e44">
+
+
+
+
+
